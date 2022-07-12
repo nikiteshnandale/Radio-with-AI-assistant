@@ -25,9 +25,9 @@ This is a radio app empowered with AI where you can ask Alan to play some music.
 
 |                                      |                                      |
 | ------------------------------------ | ------------------------------------ |
-| <img src="ss/ai1.png"  width="300"/> | <img src="ss/ai2.png"  width="300"/> |
-| <img src="ss/ai3.png" width="300"/>  | <img src="ss/ai4.png" width="300"/>  |
-| <img src="ss/ai5.png" width="300"/>  |
+| <img src="ss/1.jpg"  width="300"/> | <img src="ss/2.jpg"  width="300"/> |
+| <img src="ss/3.jpg" width="300"/>  | <img src="ss/4.jpg" width="300"/>  |
+
 
 ---
 
