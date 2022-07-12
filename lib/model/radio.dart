@@ -8,9 +8,8 @@ class MyRadioList {
     this.radios,
   });
 
-  MyRadioList copyWith({
-    List<MyRadio> radios,
-  }) {
+
+   {
     return MyRadioList(
       radios: radios ?? this.radios,
     );
