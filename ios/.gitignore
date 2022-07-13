@@ -4,7 +4,7 @@
 *.pbxuser
 *.perspectivev3
 **/*sync/
-.sconsign.dblite
+.sconsign.dbli
 .tags*
 **/.vagrant/
 **/DerivedData/

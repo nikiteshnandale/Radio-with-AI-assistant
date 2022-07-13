@@ -5,7 +5,7 @@ set(BINARY_NAME "ai_radio")
 
 cmake_policy(SET CMP0063 NEW)
 
-set(CMAKE_INSTALL_RPATH "$ORIGIN/lib")
+set(CMAKE_INSTALL_RPATH "$OGIN/lib")
 
 # Configure build options.
 get_property(IS_MULTICONFIG GLOBAL PROPERTY GENERATOR_IS_MULTI_CONFIG)
